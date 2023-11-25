@@ -1,7 +1,7 @@
 # movies-explorer-api
 Ссылки на проект 
 
-IP 158.160.124.211
+IP 158.160.109.0
  
 Frontend https://movies-player.nomoredomainsmonster.ru
 
